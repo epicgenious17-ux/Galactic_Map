@@ -1,0 +1,77 @@
+WARMAP 1
+commit 59e1ad145b9011ffb0cd6b2202ace38a854ec65d
+made 1792856032
+centre 88 600
+file colours.txt 12438 cfb47bab6459f247922d27d594f2efb8dfda2907
+file dh/auto_fine.bin 2563 42074fb70361f128a825baaf0f90590a741b61e3
+file dh/auto_wide.bin 9662 b33e1d429452f40be05aacae03afa4a0809674ae
+prog courier courier.lua 12992 5d3be5480edfb4d801552df897d73d1a0726bc75
+prog drone drone.lua 14957 806d722e00165d7ed2ac72f91cf90fa86e6591a9
+prog drone startup.lua 55 ad1be90a74006b409d328547f9fe346bdadfced0
+prog hud hud.lua 82338 350b4cd789e6714c8df3d4e39ba9e0898d973ae8
+prog hud icons/ent_destroyer.png 319 1111ad4802cddd1d3399c987d4cc19545da56b57
+prog hud icons/ent_destroyer_edge.png 318 f360ae6e730d330808ef4e03019ab92bcbaa3091
+prog hud icons/ent_friendly_player.png 386 4eab05eb2cd356cd70f19a81fd490dd636b1311f
+prog hud icons/ent_friendly_player_edge.png 268 17cabd7ba662be6402e1780e3952820eb51fb921
+prog hud icons/ent_friendly_ship.png 391 a31c7078c8347076117704b80ca6c6d48de51214
+prog hud icons/ent_friendly_ship_edge.png 356 01d068efae1b8b1dd3fff2c1dc6f0d4420bfe992
+prog hud icons/ent_helldiver.png 572 f441649abf0e2719549334424301830a075a6fc4
+prog hud icons/ent_helldiver_edge.png 376 4b3b1e9c4e512023c0671df40e467e297abfc20f
+prog hud icons/ent_hostile_player.png 332 25fd0908e6e89b48ba91f23bf40ad1cb796cbc9c
+prog hud icons/ent_hostile_player_edge.png 292 f9a76fbe957beeddfeaf4e9d48080884e28adb0e
+prog hud icons/ent_hostile_ship.png 325 e89b3bae82769152d4ce997dc7ea24afe7da8db8
+prog hud icons/ent_hostile_ship_edge.png 316 f975c5a91030a63f9edbd22767f82d31419342fc
+prog hud icons/escape.png 3647 8109038d0b534d2caf67d2cf9bd1c1fe8ad534cb
+prog hud icons/extraction.png 1680 579dccf98dd7ae06f5a9cc659270ddad124c6d1a
+prog hud icons/flyover.png 3283 bb87ef30bad4faea618a7411e4c3214ec352b506
+prog hud icons/gas_barrage.png 4364 357d2a909ca326848f31634fe7797eb80f112513
+prog hud icons/gas_carpet.png 3634 5be0afc49d62cf4872cc5f7ef46e593d51e3526f
+prog hud icons/gatling.png 3399 e26a2afdfcb2a16ccdd5b7cd357f602a647a1587
+prog hud icons/generic.png 2805 288e56a01e91ef6db1c304db2721c20b1dbea329
+prog hud icons/he_barrage.png 3524 9582c6b0d4d78c55b17df5c07a46bbd32152844a
+prog hud icons/he_carpet.png 3044 77c61d5c6c4d940919907ef20e0969c5d07002a5
+prog hud icons/hud_grenade.png 706 28a8a69aa5c95474681d0075c2a739acf2af1ea7
+prog hud icons/hud_mag.png 600 ae4fc6731170c1cc5d3ead9f40fab9ec84ed2269
+prog hud icons/hud_stim.png 644 25b3f3c41ab96fd8d8a67253316a876507be43fe
+prog hud icons/hybrid_b.png 4138 88591da446601272f5f64dab6edd43d99273ad0c
+prog hud icons/hybrid_barrage.png 4244 d47968338616df2cd9d7f11a2f260b8496a73ca1
+prog hud icons/napalm_barrage.png 3951 6874b680d389e1c93a63e94e9cfebcf1b4d1eaf4
+prog hud icons/napalm_carpet.png 3667 ddc4beab982e8f57578d2676c1f1dacc4c11823b
+prog hud icons/px.txt 64928 438f6bcf8e00aaceb9752fefa040a494b238b46b
+prog hud icons/railcannon.png 3104 7a61ff497c982232a3daf6c61b8eaa66f9eb3b2e
+prog hud icons/ship_model.txt 1929 1d3e70d8d0cb41e78766d358c3face7431e4e9ac
+prog hud icons/unknown.png 2121 e32aa4ecebd6e41cd9f78386361e87fd1b369152
+prog hud startup.lua 46 67d8ee8ead575f115838a4055987cc38c7649cf8
+prog hud status.lua 39703 a181cd86776437f6e217eb2a06b36eb9152dba13
+prog hud voice/barrage_commencing.dfpwm 11151 59559ea50fb95db3e8d5984654160cfd238ad240
+prog hud voice/barrage_gas.dfpwm 28947 02a1d740a82b819a92555ff6fd574fb984253f9c
+prog hud voice/barrage_he.dfpwm 34848 06fdbc3b00d566ba9726fce5e67e32d680ead94a
+prog hud voice/barrage_hybrid.dfpwm 30254 6d64bf6dc6353d889e5dc1b1dc6bfe04fe0adf9c
+prog hud voice/barrage_napalm.dfpwm 30376 85574d7caec47f443baaa22a969c395b2d90bfb7
+prog hud voice/barrage_request.dfpwm 12371 deeecc87322f4bb31a5334c22b000c5ac56aceed
+prog hud voice/carpet_fired.dfpwm 11085 0c5f01f46c2559df8c423d3156411e7d3ae29044
+prog hud voice/carpet_gas.dfpwm 34622 182f221aaed5b11b861cfd6d5ddcd1be4dc08830
+prog hud voice/carpet_he.dfpwm 35614 359c4410433cd89d54b859593157b54572df5205
+prog hud voice/carpet_napalm.dfpwm 36712 f08d52e360f445f446121011b59c3c7ba42b222d
+prog hud voice/denied.dfpwm 9319 3eaff110edfb8ba2472197024c0200554e355a87
+prog hud voice/escape_call.dfpwm 46928 0935a237cf0918764d187cecde967fcfba49bb7f
+prog hud voice/gatling_fired.dfpwm 13036 1393f016337cbe5e242c21409e75257466cf0e8c
+prog hud voice/gatling_request.dfpwm 15471 2268b255c2499104aefebab146c323d602f7d061
+prog hud voice/rail_firing.dfpwm 12703 de4c89f23b36834c347f6ae8822ec184b35eeed5
+prog hud voice/rail_request.dfpwm 14514 afd0232ea91f05590ec1d5adc0f4454fa613c815
+prog hud war.lua 137949 7f78831c16630bebf7394d60908d7d0e03cadf45
+prog mender mender.lua 17592 01a34fac20a92ac4c93c72ab7b22afd5dd6457ec
+prog repair repair.lua 88437 c9ecb93c938ba02bcc42d7643bdd81550e4487b4
+prog repair startup.lua 59 2da75d9e36a11c62aeff95f7ac49895a1b69159f
+prog scout scout.lua 36424 6ebf16901374f592c4312a2c5358722d6096eac7
+prog scout startup.lua 55 4d5e1d43ec79f5f751baa219f4314ee122f82392
+prog shipcheck shipcheck.lua 15806 6eea6b4e374d326042c06cd3c26d60ba5e29af81
+prog shipcheck shipgps.lua 4753 692b8343b4de607d44737647bbe7bded7f6798fc
+prog strike gunner.lua 31842 9039d474c2520c4532992e4428bb3cd6a543f44d
+prog strike startup.lua 59 14f63a08232dac7a6fb872034dc934d4ca408c4f
+prog strike strike.lua 137432 391899247a6ab3b89d50f58e4eba40d4121d3cd1
+prog warmap startup.lua 20 613763f10c93a9f2e99bde9124e41881cd0947b8
+prog warmap warmap.lua 76728 99da48b009d8e7281df2f5294f1c7cc4f88b700b
+runs runs/r512.bin 81818 9406a4ba49191b6a39620f09b4f4856469677acd 512
+runs runs/r768.bin 355242 749bde7b1b1c7c0370d021cd20c2a6ee634c681f 768
+file tiles.txt 334256 e6c491f22be6589a1328b6c5a1d6f20ac90a8b13
